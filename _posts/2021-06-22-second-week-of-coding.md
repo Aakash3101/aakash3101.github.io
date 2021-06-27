@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 Hi everyone,
 
-This week (14 June - 21 June), This week, I debugged a error in the tests of retriever and created prototype scripts for the Socrata API, and had my weekly standup meetings.
+This week (14 June - 20 June), This week, I debugged a error in the tests of retriever and created prototype scripts for the Socrata API, and had my weekly standup meetings.
 
 &nbsp;
 
