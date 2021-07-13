@@ -22,7 +22,7 @@ My tasks till the next meeting are to add tests for the core functions of the So
 
 ### Meeting 2 (1st July)
 
-During the second meeting, I explained my insight about the `tidycensus` package and the dataset it holds. So I setup `R` and `RStudio` on my system and installed the `tidycensus` package. The users need to generate a `census_api_key` which is used by the library to access the data. I did face some installation issues which were caused by the library `units`, it required the installation of system dependency `libudunits2-dev`. 
+During the second meeting, I explained my insight about the `tidycensus` package and the dataset it holds. So I setup `R` and `RStudio` on my system and installed the `tidycensus` package. The users need to generate a `census_api_key` which is used by the library to access the data. I did face some installation issues which were caused by the library `units`, it required the installation of system dependency `libudunits2-dev`.
 
 After this I followed the [manual](https://cran.r-project.org/web/packages/tidycensus/tidycensus.pdf) for the `tidycensus` package. So the package contains 5 datasets, which are `county_laea`, `state_laea`, `mig_recodes`, `fips_codes` and `pums_variables`. So the `county_laea` and `state_laea` are spatial datasets, and the other three are tabular datasets.
 
