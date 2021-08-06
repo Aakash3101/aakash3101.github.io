@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fifth Week of Coding"
+title:  "5th Week of Coding"
 date:   2021-07-11 18:00:00 +0530
 categories: jekyll update
 ---
