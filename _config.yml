@@ -22,8 +22,8 @@ title: Google Summer of Code 2021
 email: aakash312000@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   GSoC'21 @ Data Retriever (NumFOCUS)
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blogs" # the subpath of your site, e.g. /blog
+url: "https://aakash3101.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aakash3128
 github_username:  Aakash3101
 
