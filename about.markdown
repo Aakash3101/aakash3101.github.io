@@ -10,4 +10,4 @@ I am a Final Year Undergraduate Student in Computer Science at [Cluster Innovati
 
 Organizations
 
-- [Weecology](https://www.weecology.org/people/aakash-chaudhary/)
+- [Weecology](https://www.weecology.org/author/aakash-chaudhary/)
